@@ -17,10 +17,10 @@ new Swiper(".slide-content", {
 
   breakpoints:{
       0: {
-          slidesPerView: 1,
+          slidesPerView: 1.5,
       },
       520: {
-          slidesPerView: 2,
+          slidesPerView: 2.5,
       },
       950: {
           slidesPerView: 3,
